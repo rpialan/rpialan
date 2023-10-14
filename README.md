@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rpialan
+- 👋 Hi, I’m Ruth Pialan
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning htmx + go
 - 💞️ I’m looking to collaborate on anything, hit me up!
